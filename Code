@@ -35,7 +35,6 @@ public class rock_paper_scissors {
        else  if (computerInput ==2){
             System.out.println("Computer Choice : Scissor");
 
-
-    }
+}
 }
 }
